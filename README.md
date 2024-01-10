@@ -7,7 +7,7 @@ Better configs with TOML support. Copy of https://github.com/Euromance/confboy p
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install confboy.
 
 ```bash
-pip install confboy
+pip install confboy1
 ```
 
 ## Usage
