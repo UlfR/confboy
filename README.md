@@ -1,6 +1,6 @@
 # Confboy
 
-Better configs with TOML support.
+Better configs with TOML support. Copy of https://github.com/Euromance/confboy package
 
 ## Installation
 
@@ -13,7 +13,7 @@ pip install confboy
 ## Usage
 
 ```python
-import confboy
+import confboy1 as confboy
 
 
 base_config = {
